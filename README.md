@@ -12,4 +12,16 @@ El equipo de trabajo para llevar a cabo este proyecto consta de 5 integrantes, e
 
 **Tester:** Diseñar y llevar a cabo tests al sistema con el fin de encontrar errores que no han sido descubiertos, como comprobar el correcto funcionamiento del mismo, revisar que el programa cumpla con las especificaciones planeadas, para así, entregar al usuario final un software en correcto funcionamiento. Detecta anomalías, fortalezas, debilidades, o riesgos.
 
-#
+# ¿DE CUANTAS FASES CONSTARÁ EL PROYECTO?
+
+El proyecto constará de 4 fases de 23 días cada una, dando un total de 92 días tomando como referencia dos meses de 31 días y uno de 30, ya que, según el calendario planificado, es lo que más se ajusta al mismo.
+
+**Fases del proyecto**
+
+**Fase incremental #1: Fase previa, de planeación y primera fase de desarrollo.**
+
+**Fase incremental #2: Fase de desarrollo número 2, funcionalidades básicas.**
+
+**Fase incremental #3: Fase de desarrollo número 3.**
+
+**Fase incremental #4: Fase de desarrollo final y entrega de software final.**
